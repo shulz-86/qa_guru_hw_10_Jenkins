@@ -57,7 +57,7 @@ help {
         println ""
         println "************************************************************************ "
         println "***                                                                  *** "
-        println "*** Welcome to https://demoqa.com/automation-practice-form!          *** "
+        println "*** Welcome to https://github.com/qa-guru/demoqa-test-16!            *** "
         println "***                                                                  *** "
         println "*** ./gradlew help                                                   *** "
         println "***                                                                  *** "
