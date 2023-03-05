@@ -40,7 +40,6 @@ public class RegistrationPage {
      */
     public RegistrationPage openPage() {
         open("/automation-practice-form");
-        //open("https://demoqa.com/automation-practice-form");
         $(".practice-form-wrapper").shouldHave(text(TITLE_TEXT));
         executeJavaScript("$('footer').remove()");
         executeJavaScript("$('#fixedban').remove()");
